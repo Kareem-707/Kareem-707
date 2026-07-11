@@ -20,13 +20,19 @@
 ---
 
 ## ⚡ Skills 
-- Basics of Programming in C++ (University Coursework)
-- Object Oriented Proagramming (OOP) in java (University Coursework)
-- Basics of Data analysis in python (Self‑Taught)
-
+### Languages 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,git,github" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,html" />
+</p>
+
+### Framworks & Databases
+none yet
+
+### Tools & platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
 ---
@@ -53,6 +59,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kareem-707&color=00c2ff&style=flat-square" />
 </p>
+
 
 <p align="center">
   <img src="https://singlecolorimage.com/get/6A0DAD/1000x120" />
